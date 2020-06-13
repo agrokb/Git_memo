@@ -9,3 +9,8 @@ git add memo.txt
 #git 正式推入
 git commit -m "COMMIT NAME"
 commit是一個node，而master是一個tag
+#.gitignore忽略檔案
+#.gitignore
+*xxxfile
+#git remote查看遠端資料庫
+#git push把專案推上Github
