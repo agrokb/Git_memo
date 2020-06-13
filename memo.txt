@@ -3,5 +3,9 @@ git init
 #查看git狀態
 git status
 #把檔案加入git master
+#git add->加入儲存庫
 git add .
 git add memo.txt
+#git 正式推入
+git commit -m "COMMIT NAME"
+commit是一個node，而master是一個tag
