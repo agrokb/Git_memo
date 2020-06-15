@@ -14,3 +14,7 @@ commit是一個node，而master是一個tag
 *xxxfile
 #git remote查看遠端資料庫
 #git push把專案推上Github
+#從遠端把檔案拉下來
+git pull = git fetch + git merge
+#遠端複製專案到本地
+git clone https://github.com/agrokb/git_memo.git
